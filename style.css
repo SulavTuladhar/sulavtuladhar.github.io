@@ -369,7 +369,7 @@ main {
   }
 }
 
- @media screen and (max-width: 300px) {
+ @media screen and (max-width: 500px) {
     .intro{
         width: 200px;
 
