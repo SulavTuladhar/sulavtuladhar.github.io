@@ -348,7 +348,7 @@ main {
   }
   .main-container {
     width: 90%;
-    height: 90%;
+    height: 90vh;
     max-width: 10000px;
   }
   header {
