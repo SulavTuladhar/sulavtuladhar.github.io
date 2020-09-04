@@ -345,6 +345,12 @@ main {
   .container {
     display: none;
   }
+  
+  .main-container{
+    
+    width: 90%;
+  }
+    
   header {
     position: relative;
   }
