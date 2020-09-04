@@ -35,6 +35,7 @@ main {
 }
 
 .container {
+  margin-right: 10px;
   width: 300px;
 }
 
@@ -68,7 +69,7 @@ main {
 }
 
 .main-container {
-  margin-left: 10px;
+  
   width: 70%;
   overflow-y: scroll;
 }
@@ -347,7 +348,7 @@ main {
     display: none;
   }
   .main-container {
-    overflow: hidden;
+    overflow: scroll;
     width: 90%;
     
     max-width: 10000px;
