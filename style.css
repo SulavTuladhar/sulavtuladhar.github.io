@@ -347,8 +347,9 @@ main {
     display: none;
   }
   .main-container {
+    overflow: hidden;
     width: 90%;
-    height: 90vh;
+    height: 0vh;
     max-width: 10000px;
   }
   header {
