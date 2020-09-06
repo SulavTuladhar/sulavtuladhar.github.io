@@ -419,11 +419,18 @@ header #top {
 }
 
  @media screen and (max-width: 455px) {
+        .intro{
+        width: 350px; 
+    }
+    
+    }
+
+  @media screen and (max-width: 395px) {
 
      
 
         .intro{
-        width: 350px; 
+        width: 300px; 
     }
     
     }
