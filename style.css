@@ -28,7 +28,7 @@ main {
 .container, .main-container {
   border-radius: 10px;
   text-align: center;
-  height: 90vh;
+  height: 80vh;
   background: #ffffff;
   -webkit-box-shadow: 5px 5px 7px #ced4da;
           box-shadow: 5px 5px 7px #ced4da;
