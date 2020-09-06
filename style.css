@@ -380,6 +380,10 @@ header #top {
 }
 
 @media screen and (max-width: 500px) {
+  .main-container{
+            width: 94%  
+        }
+  
   header {
     display: block;
   }
