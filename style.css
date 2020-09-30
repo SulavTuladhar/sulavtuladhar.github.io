@@ -496,7 +496,7 @@ main {
           align-items: center;
 }
 
-header {
+header, .top {
   background: #7610f7;
   height: 50px;
   display: none;
