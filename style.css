@@ -511,6 +511,10 @@ header .small-nav {
       justify-content: space-around;
 }
 
+header li {
+  margin-top: 1rem;
+}
+
 header .small-nav a {
   text-decoration: none;
   font-weight: bold;
